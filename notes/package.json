@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mongoose": "^6.6.3"
+  },
+  "name": "mongo",
+  "version": "1.0.0",
+  "main": "mongo.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node mongo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t",
+  "license": "ISC",
+  "description": ""
+}
